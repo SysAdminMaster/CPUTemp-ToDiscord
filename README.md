@@ -1,5 +1,5 @@
 This script sends CPU Temprature information to a discord channel through a bot then it edits the message with updated information every 5 seconds.
-
+I personally used it to monitor my RasperryPi Tempratures.
 
 
 
