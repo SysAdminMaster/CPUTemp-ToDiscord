@@ -1,0 +1,1 @@
+# CPUTemp-ToDiscord
